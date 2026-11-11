@@ -1,0 +1,29 @@
+INFORME DE OPERACIONES Y AUDITORIA 2026
+=======================================
+
+Documento: INF-2026-089
+Fecha de emision: 11 de noviembre de 2026
+Departamento: Inteligencia Documental
+Estado de revision: Aprobado para publicacion
+1. Resumen del Desempeno Trimestral
+-----------------------------------
+
+Durante el tercer trimestre del ejercicio fiscal se implemento la nueva arquitectura de digitalizacion automatica en las tres sedes regionales, lo cual permitio reducir los tiempos de clasificacion manual y elimino los errores de transcripcion en facturas y contratos logisticos de alta complejidad operativa.
+
+2. Hallazgos Principales de la Auditoria
+----------------------------------------
+
+  • Incremento del 42% en la velocidad de procesamiento de expedientes.
+  • Estandarizacion de reportes ejecutivos en formatos Markdown y PDF.
+  • Reduccion del 68% en incidencias de archivo y perdida de metadatos.
+3. Metricas por Unidad Operativa
+--------------------------------
+
+
+Region Operativa  |  Volumen Procesado  |  Exactitud Media
+----------------------------------------------------------
+Sede Norte        |  14520 documentos   |  98.4%          
+Sede Central      |  28910 documentos   |  99.1%          
+Sede Sur          |  11340 documentos   |  97.8%          
+
+[NOTA] Nota: Todos los indicadores fueron verificados mediante muestreo estadistico interno.

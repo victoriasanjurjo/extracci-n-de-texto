@@ -1,0 +1,27 @@
+# Entorno virtual y caché de Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Compilación y empaquetado (PyInstaller)
+build/
+dist/
+*.spec
+*.manifest
+
+# Pruebas y cobertura
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Archivos de configuración local o temporales
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+

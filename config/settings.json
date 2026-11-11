@@ -1,0 +1,25 @@
+{
+    "app_name": "DocuStruct Studio",
+    "version": "1.0.0",
+    "ocr": {
+        "default_language": "es+en",
+        "preprocess_contrast": 1.35,
+        "preprocess_denoise": true,
+        "confidence_threshold": 0.35
+    },
+    "structuring": {
+        "heading_height_ratio": 1.28,
+        "sub_heading_height_ratio": 1.12,
+        "line_merge_vertical_tolerance": 0.55,
+        "paragraph_gap_multiplier": 1.45,
+        "table_column_gap_ratio": 2.2,
+        "detect_tables": true,
+        "detect_lists": true,
+        "detect_key_value_pairs": true
+    },
+    "export": {
+        "default_output_dir": "outputs",
+        "include_analytics_charts_in_pdf": true
+    }
+}
+
